@@ -1,0 +1,3 @@
+1. Selesaikan latihan Interface AC di slide
+2. Buatlah studi kasus dalam bentuk narasi yang mencerminkan implementasi multiple interface.
+3. Selesaikan studi kasus pada nomor 2 dalam bentuk coding
